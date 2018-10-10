@@ -1,0 +1,72 @@
+var jsonMeals = [{
+        "name": "Schnitzel",
+        "art": "Meat",
+        "likes": "9",
+        "description" :"Meal from Austria",
+        "photo": "https://thecozyapron.com/wp-content/uploads/2012/02/schnitzel_thecozyapron_1.jpg"
+    },
+    {
+        "name": "Backhendel",
+        "art": "Meat",
+        "likes": "9",
+        "description" :"Baked chicken",
+        "photo": "https://www.vorarlberg-lines.at/uploads/media/780x500/03/13-Backhendlschiff780x500.jpg?v=1-0"
+    },
+    {
+        "name": "Gulasch",
+        "art": "Meat",
+        "likes": "3",
+        "description" :"From Hungary - very tasty",
+        "photo": "https://www.gutekueche.at/img/rezept/22072/gulasch-ohne-tomatenmark.jpg"
+    },
+    {
+        "name": "Baked Broccoli",
+        "art": "Veg",
+        "likes": "4",
+        "description" :"Fatty broccoli - very good!",
+        "photo": "https://assets.bonappetit.com/photos/57acd5e41b3340441497522b/16:9/w_1200,c_limit/ROAST-VEG-7-of-7.jpg"
+    },
+    {
+        "name": "Lasagne",
+        "art": "Meat",
+        "likes": "9",
+        "description" :"Meal from Italy",
+        "photo": "https://scm-assets.constant.co/scm/unilever/e9dc924f238fa6cc29465942875fe8f0/28f996d1-0821-44ec-97de-2de86efa897c.jpg"
+    },
+    {
+        "name": "Veggy-Lasagne",
+        "art": "Veg",
+        "likes": "6",
+        "description" :"Meal from Italy but without meat!",
+        "photo": "https://www.simplyrecipes.com/wp-content/uploads/2012/11/vegetarian-lasagna-horiz-a-2000.jpg"
+    },
+    {
+        "name": "Carbonara",
+        "art": "Meat",
+        "likes": "8",
+        "description" :"Classic dish from Italy",
+        "photo": "https://static01.nyt.com/images/2018/08/10/dining/carbonara-horizontal/carbonara-horizontal-threeByTwoMediumAt2X.jpg"
+    },
+    {
+        "name": "Paella",
+        "art": "Meat",
+        "likes": "7",
+        "description" :"Dish from Spain with rice and many other ingredients",
+        "photo": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2Fimage%2Frecipes%2Fck%2F00%2F05%2Fspanish-paella-mr-x.jpg%3Fitok%3Dyw_H-lXE&w=1000&q=70"
+    },
+    {
+        "name": "Grilled Salmon",
+        "art": "Meat",
+        "likes": "2",
+        "description" :"A classic one",   
+        "photo": "https://www.simplyrecipes.com/wp-content/uploads/2013/06/grilled-salmon-dill-butter-horiz-640.jpg"
+    },
+    {
+        "name": "Salad",
+        "art": "Veg",
+        "likes": "8",
+        "description" :"Simple Salad",
+        "photo": "https://hips.hearstapps.com/hmg-prod/images/avocado-salad-1524672116.png"
+    }
+
+]
