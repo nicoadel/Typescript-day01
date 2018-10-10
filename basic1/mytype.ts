@@ -9,6 +9,8 @@ for (let i = 0; i<numArray.length; i++){
 
 	for(let ii = 0; ii < numArray.length; ii++){
 
+
+
 		let sum: number = getMultiply(numArray[i], numArray[ii]);
 		document.write(String(sum)+ "</br>");
 
@@ -16,5 +18,10 @@ for (let i = 0; i<numArray.length; i++){
 	}
 	document.write("<hr>");
 }
-
-
+let map = new Map()
+.set("A",1)
+.set("B",2)
+.set("C",3)
+.set("D",4)
+.set("E",5);
+document.write("A:"+map.get("A")+"</br>B:"+map.get("B")+"</br>C:"+map.get("C")+"</br>D:"+map.get("D")+"</br>E:"+map.get("E"))
